@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* allgemeine Klassen */
+.content-max-width {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+
+
+/* Rahmen */
+#page {
+}
+
+
+/* Header */
+header {
+	padding: 20px 0;
+}
+
+
+
+
+/* Suche */
+#search {
+	padding: 100px 0;
+	background: rgb(255,255,255);
+	background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(195,205,45,1) 50%, rgba(255,255,255,1) 100%);
+}
+
+
+
+
+/* Such-Ergebnisse */
+#search-results {
+	padding: 100px 0;
+}
+
+
+
+/* Event-Detailansicht */
+
+
+
